@@ -64,8 +64,8 @@
 1- Upload your sample fingerprint<br>
 2- Upload test fingerprint<br>
 3- Choose matching method: <br>
-  &nbsp 3.1- Match with Preprocessing for highest accuracy<br>
-  &nbsp 3.2- Match Directly for faster results<br>
+<pre>  3.1- Match with Preprocessing for highest accuracy<br></pre>
+<pre>  3.2- Match Directly for faster results<br></pre>
 4- View detailed analysis and results
 
 ## 🚀 Quick Start
