@@ -61,11 +61,11 @@
 # Try it now: Fingerprint Matcher App
 # Live Demo: [https://fingerprintmatch-pro.streamlit.app/](https://fingerprintmatch-pro.streamlit.app/)</br>
 ## 📝 Usage Guide
-1- Upload your sample fingerprint<br></br>
-2- Upload test fingerprint<br></br>
-3- Choose matching method: 
-  3.1- Match with Preprocessing for highest accuracy
-  3.2- Match Directly for faster results
+1- Upload your sample fingerprint<br>
+2- Upload test fingerprint<br>
+3- Choose matching method: <br>
+  &nbsp 3.1- Match with Preprocessing for highest accuracy<br>
+  &nbsp 3.2- Match Directly for faster results<br>
 4- View detailed analysis and results
 
 ## 🚀 Quick Start
