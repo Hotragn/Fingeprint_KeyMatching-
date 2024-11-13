@@ -58,25 +58,24 @@
 | Speed | ~2-3 seconds | <1 second |
 | Best Use | High-security verification | Quick matching |
 
+# Try it now: Fingerprint Matcher App
+# Live Demo: [https://fingerprintmatch-pro.streamlit.app/](https://fingerprintmatch-pro.streamlit.app/)</br><br></br>
+## 📝 Usage Guide
+**Upload your sample fingerprint**
+**Upload test fingerprint**
+# Choose matching method:
+**Match with Preprocessing" for highest accuracy**
+**Match Directly" for faster results**
+**View detailed analysis and results**
+
 ## 🚀 Quick Start
 
-1. Clone the repository:
+# Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/fingerprint-matcher.git](https://github.com/Hotragn/Fingeprint_KeyMatching-.git)
+git clone- https://github.com/Hotragn/Fingeprint_KeyMatching-.git
 
 Install requirements:
-```bash
 pip install -r requirements.txt
 
 Run the application:
-```bash
-streamlit run App.py<br>
-#Try it now: Fingerprint Matcher App
-Live Demo: [https://fingerprintmatch-pro.streamlit.app/](https://fingerprintmatch-pro.streamlit.app/)</br><br></br>
-📝 Usage Guide
-Upload your sample fingerprint
-Upload test fingerprint
-Choose matching method:
-"Match with Preprocessing" for highest accuracy
-"Match Directly" for faster results
-View detailed analysis and results
+streamlit run App.py
