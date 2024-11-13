@@ -60,14 +60,15 @@
 
 # Try it now: Fingerprint Matcher App
 # Live Demo: [https://fingerprintmatch-pro.streamlit.app/](https://fingerprintmatch-pro.streamlit.app/)</br><br></br>
+<div>
 ## 📝 Usage Guide
 **Upload your sample fingerprint**<br></br>
 **Upload test fingerprint**<br></br>
-# Choose matching method:
+Choose matching method:
 **Match with Preprocessing" for highest accuracy**<br></br>
 **Match Directly" for faster results**<br></br>
 **View detailed analysis and results**
-
+</div>
 ## 🚀 Quick Start
 
 # Clone the repository:
