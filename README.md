@@ -59,16 +59,15 @@
 | Best Use | High-security verification | Quick matching |
 
 # Try it now: Fingerprint Matcher App
-# Live Demo: [https://fingerprintmatch-pro.streamlit.app/](https://fingerprintmatch-pro.streamlit.app/)</br><br></br>
-<div>
+# Live Demo: [https://fingerprintmatch-pro.streamlit.app/](https://fingerprintmatch-pro.streamlit.app/)</br>
 ## 📝 Usage Guide
 **Upload your sample fingerprint**<br></br>
 **Upload test fingerprint**<br></br>
-Choose matching method:
+<h3>Choose matching method:</h3>
 **Match with Preprocessing" for highest accuracy**<br></br>
 **Match Directly" for faster results**<br></br>
 **View detailed analysis and results**
-</div>
+
 ## 🚀 Quick Start
 
 # Clone the repository:
