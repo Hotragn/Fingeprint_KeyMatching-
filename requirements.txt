@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 streamlit
 opencv-python-headless
 numpy
 pillow
 PIL
+=======
+streamlit
+opencv-python-headless
+numpy
+pillow
+PIL
+>>>>>>> 8bf40d6b4ab5c96a27ea247034e07cf7c3cac4cf
