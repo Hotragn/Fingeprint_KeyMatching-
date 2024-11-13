@@ -1,16 +1,16 @@
 # 🔍 Fingerprint Matching System
 
 <div align="center">
-  <img src="[https://cdn2.iconfinder.com/data/icons/biometric-data-1/64/Biometric_data-16-512.png](https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/de16ba23-7b79-419e-b246-80ce1913d1e1/19ce1f54-a18a-4f54-bf0d-934b0599bda6.png)" width="800" alt="Fingerprint Matching System Banner"/>
+  <img src="https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/de16ba23-7b79-419e-b246-80ce1913d1e1/19ce1f54-a18a-4f54-bf0d-934b0599bda6.png" width="800" alt="Fingerprint Matching System Banner"/>
 </div>
 
-## 📱 Application Demo
+## 📱 Applications
 
 <div align="center">
   <table>
     <tr>
       <td><img src="https://www.fingertec.com/companyprofile/development/images/bio-02-04.jpg" width="400" alt="Preprocessing"/></td>
-      <td><img src= "![image](https://github.com/user-attachments/assets/cfb6893d-91c6-417d-bdbb-420ed44a8b01)" width="400" alt="Matching"/></td>
+      <td><img src= "https://www.fingertec.com/companyprofile/development/images/bio-02-02.jpg" width="400" alt="Matching"/></td>
     </tr>
   </table>
   
