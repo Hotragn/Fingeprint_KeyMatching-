@@ -62,7 +62,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fingerprint-matcher.git
+git clone [https://github.com/yourusername/fingerprint-matcher.git](https://github.com/Hotragn/Fingeprint_KeyMatching-.git)
 
 Install requirements:
 ```bash
@@ -70,9 +70,9 @@ pip install -r requirements.txt
 
 Run the application:
 ```bash
-streamlit run App.py
-Live Demo: https://fingerprintmatch-pro.streamlit.app/
-Try it now: Fingerprint Matcher App
+streamlit run App.py<br>
+#Try it now: Fingerprint Matcher App
+Live Demo: [https://fingerprintmatch-pro.streamlit.app/](https://fingerprintmatch-pro.streamlit.app/)</br><br></br>
 📝 Usage Guide
 Upload your sample fingerprint
 Upload test fingerprint
