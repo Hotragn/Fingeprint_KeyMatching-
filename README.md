@@ -1,7 +1,7 @@
 # 🔍 Fingerprint Matching System
 
 <div align="center">
-  <img src="https://thumbs.dreamstime.com/b/fingerprint-scan-provides-security-access-biometrics-identification-business-technology-safety-internet-concept-fingerprint-167786875.jpg" width="800" alt="Fingerprint Matching System Banner"/>
+  <img src="https://cdn2.iconfinder.com/data/icons/biometric-data-1/64/Biometric_data-16-512.png" width="800" alt="Fingerprint Matching System Banner"/>
 </div>
 
 ## 📱 Application Demo
@@ -10,9 +10,10 @@
   <table>
     <tr>
       <td><img src="https://thumbs.dreamstime.com/b/fingerprint-scan-provides-security-access-biometrics-identification-business-technology-safety-internet-concept-121156206.jpg" width="400" alt="Preprocessing"/></td>
-      <td><img src="https://thumbs.dreamstime.com/b/fingerprint-identification-biometric-human-fingerprints-unique-thumb-lines-imprint-security-fingerprint-156465573.jpg" width="400" alt="Matching"/></td>
+      <td><img src= ![image](https://github.com/user-attachments/assets/cfb6893d-91c6-417d-bdbb-420ed44a8b01) width="400" alt="Matching"/></td>
     </tr>
   </table>
+  
 </div>
 
 ## 🎯 Features
